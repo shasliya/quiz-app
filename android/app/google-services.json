@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722663453592",
+    "project_id": "shasliyafirebase",
+    "storage_bucket": "shasliyafirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722663453592:android:77aaecab90aa72ce93f1ed",
+        "android_client_info": {
+          "package_name": "com.example.fairbaseeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722663453592-3d11o7abv7le0lmr6dlmjv62k3p82kj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fairbaseeg",
+            "certificate_hash": "e9c9716c954d67c8fc658468ea116c1763420aa1"
+          }
+        },
+        {
+          "client_id": "722663453592-7r1t09fkhn4isrr9qrmgqq1hppjn3i68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Xuyh6nr8AYvouopxBISaGvu9wcr7Bmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722663453592-7r1t09fkhn4isrr9qrmgqq1hppjn3i68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
